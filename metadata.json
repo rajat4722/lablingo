@@ -1,0 +1,5 @@
+{
+  "name": "LabLingo",
+  "description": "A calm, helpful tool that translates complex lab reports into plain English using AI. Upload a photo or paste your results for a safety-first breakdown.",
+  "requestFramePermissions": []
+}
